@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=MostafaTwfiq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MostafaTwfiq)
+[![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=MostafaTwfiq&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/MostafaTwfiq)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTwfiq&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MostafaTwfiq)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTwfiq&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/MostafaTwfiq)
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MostafaTwfiq&theme=dark)](https://github.com/MostafaTwfiq)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=MostafaTwfiq&theme=light)](https://github.com/MostafaTwfiq)
 
 <!--
 **MostafaTwfiq/MostafaTwfiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
