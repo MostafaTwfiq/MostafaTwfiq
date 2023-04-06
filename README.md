@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MostafaTwfiq&label=Profile%20views&color=0e75b6&style=flat" alt="jurgen-lentz" /> </p>
+
 [![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=MostafaTwfiq&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/MostafaTwfiq)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTwfiq&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/MostafaTwfiq)
